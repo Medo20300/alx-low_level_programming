@@ -2,7 +2,7 @@
 
 ![alx](https://github.com/Medo20300/alx-low_level_programming/assets/135258669/2b904a24-d226-44b6-91d9-accaa0c6dd27)
 
-## Resources
+### Resources
    
    * Read or watch:
       
@@ -13,15 +13,15 @@
    * https://intranet.alxswe.com/rltoken/AS8JW4ObD5gmyX2mgtqV0A
 
 
-## General
+### General
 
-  * What are nested loops and how to use them
-  * What is a function and how do you use functions
-  * What is the difference between a declaration and a definition of a function
-  * What is a prototype
-  * Scope of variables
-  * What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
-  * What are header files and how to to use them with #include
+  - What are nested loops and how to use them
+  - What is a function and how do you use functions
+  - What is the difference between a declaration and a definition of a function
+  - What is a prototype
+  - Scope of variables
+  - What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
+  - What are header files and how to to use them with #include
 
 
 ## Requirements
