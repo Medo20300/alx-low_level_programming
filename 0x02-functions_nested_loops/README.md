@@ -1,5 +1,7 @@
 ## 0x02. C - Functions, nested loops
 
+![alx](https://github.com/Medo20300/alx-low_level_programming/assets/135258669/2b904a24-d226-44b6-91d9-accaa0c6dd27)
+
 ## Resources
    
    * Read or watch:
