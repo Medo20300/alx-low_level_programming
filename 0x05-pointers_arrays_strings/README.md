@@ -1,10 +1,10 @@
-#### 0x05. C - Pointers, arrays and strings
+## 0x05. C - Pointers, arrays and strings
 
       
-### Resources
+## Resources
 
 
-## Read or watch:
+#### Read or watch:
 
   * https://www.tutorialspoint.com/cprogramming/c_arrays.htm
   * https://www.tutorialspoint.com/cprogramming/c_pointers.htm
@@ -21,9 +21,9 @@
   * Scope of variables
 
 
-#### Requirements
+## Requirements
 
-### General
+#### General
 
 
   * Allowed editors: vi, vim, emacs
