@@ -1,7 +1,7 @@
 ## 0x07. C - Even more pointers, arrays and strings
 
-https://user-images.githubusercontent.com/105258746/190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13.png
 
+  ![Alt text](https://user-images.githubusercontent.com/105258746/190977571-d5135d31-02a5-4ff3-88de-d9062d6cfe13.png)
 
 ### Resources
 
