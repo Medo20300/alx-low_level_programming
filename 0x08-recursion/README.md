@@ -1,5 +1,6 @@
 # 0x08. C - Recursion
 
+![Medhat Deif](https://github.com/Medo20300/alx-low_level_programming/assets/135258669/af4419cb-a042-43a0-8140-b701373a8da5)
 
 ## Requirements
 
