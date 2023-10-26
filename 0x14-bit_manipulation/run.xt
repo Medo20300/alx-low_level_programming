@@ -1,9 +1,0 @@
---2023-10-26 11:41:01--  http://curl/
-Resolving curl (curl)... failed: Name or service not known.
-wget: unable to resolve host address ‘curl’
---2023-10-26 11:41:01--  https://raw.githubusercontent.com/osa...
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.111.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2023-10-26 11:41:01 ERROR 400: Bad Request.
-
