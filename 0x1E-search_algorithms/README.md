@@ -1,13 +1,12 @@
 # C - Search Algorithms
 
-This was my ALX project on search algorithms. I implemented
+This was my  project on search algorithms. I implemented
 various types of search algorithms and stated the corresponding space/time
 complexities for each.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files for all tasks. Provided by ALX.
-
+* [tests](./tests): Folder of test files for all tasks.
 ## Helper Files :raised_hands:
 
 * [listint](./listint): Folder of helper files for task 12, singly linked list
@@ -61,7 +60,7 @@ typedef struct listint_s
  * @express: Pointer to the next node in the express lane
  *
  * Description: singly linked list node structure with an express lane
- * for Holberton project
+ * for ALX project
  */
 typedef struct skiplist_s
 {
